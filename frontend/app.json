@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ShopList",
+    "slug": "shoplist",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#1a1a2e"
+    },
+    "scheme": "shoplist",
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "android": {
+      "package": "com.shoplist.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.shoplist.app"
+    }
+  }
+}
