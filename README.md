@@ -1,4 +1,4 @@
-# 🛒 ShopList — Lista de la compra compartida
+## 🛒 ShopList — Lista de la compra compartida
 
 App fullstack para gestión de listas de la compra colaborativas en tiempo real.
 
